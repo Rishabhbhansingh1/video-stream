@@ -82,7 +82,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Owner", url="@Rishu_05"
+                        "🌐 Federation", url="https://t.me/ronaldofedban"
                     )
                 ],
             ]
